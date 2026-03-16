@@ -6,10 +6,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omeswara-raju-shanmukhi-9653a0323/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omeswararajushanmukhi@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+## 🛡️ Cybersecurity Interests
 
+![SOC](https://img.shields.io/badge/Security%20Operations%20Center-SOC-blue?style=for-the-badge&logo=security&logoColor=white)
+![Threat Hunting](https://img.shields.io/badge/Threat-Hunting-red?style=for-the-badge&logo=target&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident-Response-orange?style=for-the-badge&logo=shield&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware-Analysis-black?style=for-the-badge&logo=bug&logoColor=white)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability-Management-purple?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Ethical-Hacking-darkgreen?style=for-the-badge&logo=kalilinux&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=4627-Raju&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
